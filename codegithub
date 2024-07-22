@@ -1,0 +1,4 @@
+  name=input("hello:")
+  a=20,b=30;
+for i in range(5):
+  print("the end")
